@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3a8939330ee1123c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e1abf3689f6dea7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec143f1a5d6dc68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7680695b767e5ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf78589e01ac2cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ddc34294b5c522",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "21cec52688d77ebb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mathan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f6204ff8a9ba5c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9168056ce97914fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac693d13b54467f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06691d83623cd574",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "4ba0296fbc9adf1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "f8e23c297afa935e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4290056fcb5b181d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "3f0ea286e7fe1a22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4ec143f1a5d6dc68",
+  "lastOpenFiles": [
+    "Свойства определителя.md",
+    "Элементарные преобразования митриц.md",
+    "Эквивалентные пределы.md",
+    "Функция.md",
+    "Формула Шеннона.md",
+    "Формула Хартли.md",
+    "Фиктивные переменные.md",
+    "Формат записи решений системы.md",
+    "Тройка векторов.md",
+    "Треугольная матрица.md",
+    "Тождества множеств.md",
+    "Теорема Больцано-Вейерштрасса.md",
+    "Теория информации.md",
+    "Ступенчатая матрица.md",
+    "Сравнение функций.md",
+    "Способы защиты данных.md",
+    "Совершенные нормальные формы.md",
+    "Скалярное произведение.md",
+    "Система булевых функций.md",
+    "Свойства функций.md",
+    "Свойства матриц.md",
+    "Свойства логических операций.md",
+    "Решение систем с помощью матриц.md",
+    "Ранг матрицы.md",
+    "Разрыв функции.md",
+    "Прямой перевод систем с основаниями степени двойки.md",
+    "Untitled.base",
+    "graphs/04_exponential.png",
+    "graphs/14a_sinh.png",
+    "graphs/01_power.png",
+    "graphs/08_tangent.png",
+    "graphs/03_root.png",
+    "graphs/02_inverse_power.png",
+    "graphs/05_logarithmic.png",
+    "graphs/06_sine.png",
+    "graphs/07_cosine.png",
+    "graphs/09_cotangent.png",
+    "graphs",
+    "New folder",
+    "Excalidraw"
+  ]
+}
