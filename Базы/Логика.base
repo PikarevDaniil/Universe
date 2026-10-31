@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: представление
+    filters:
+      and:
+        - file.hasTag("logic")
