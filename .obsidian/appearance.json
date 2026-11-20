@@ -3,5 +3,6 @@
   "accentColor": "#ffbb00",
   "enabledCssSnippets": [
     "watcher-colors"
-  ]
+  ],
+  "showRibbon": true
 }

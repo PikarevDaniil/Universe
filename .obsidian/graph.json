@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag:#info  ",
+      "color": {
+        "a": 1,
+        "rgb": 15731432
+      }
+    },
+    {
       "query": "tag:#geometry  ",
       "color": {
         "a": 1,
@@ -25,48 +32,48 @@
       "query": "tag:#linal  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5431478
       }
     },
     {
       "query": "tag:#logic  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 4036341
       }
     },
     {
       "query": "tag:#mathan  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 8087239
+      }
+    },
+    {
+      "query": "path:Базы  ",
+      "color": {
+        "a": 1,
+        "rgb": 15193357
       }
     },
     {
       "query": "tag:#excalidraw  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "tag:#info  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
+        "rgb": 12874988
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1.49929338008713,
-  "lineSizeMultiplier": 3.59862395069599,
+  "nodeSizeMultiplier": 1.51906103286385,
+  "lineSizeMultiplier": 5,
   "collapse-forces": true,
-  "centerStrength": 0.305971735203485,
-  "repelStrength": 7.34353416215067,
-  "linkStrength": 0.686802677717565,
-  "linkDistance": 30,
-  "scale": 0.5329414566459594,
+  "centerStrength": 0.414151576123407,
+  "repelStrength": 10.5012406947891,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3823010968769948,
   "close": true
 }
